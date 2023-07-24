@@ -1,7 +1,8 @@
+# Calendar-App 📅 | Backend MERN
 
+## Tech Stack 
+*Node.js Express MongoDB Compass Mongoose Luxon bcrypt.js JWT.io Cors* 
 
-# Backend MERN - Calendar
-**Tech Stack:** *Node.js Express MongoDB Compass Mongoose Luxon bcrypt.js JWT.io Cors* 
 ## Installation
 
 Install my-project with npm
@@ -108,17 +109,9 @@ To run this project, you will need to add the following environment variables to
 
 `SECRET_JWT_SEED`
 
-## Tech Stack
-
-**Client:** React, Redux, Bootstrap
-
-**Server:** Node, Express MongoDB Compass 
-
-
 ## Authors
 
 - [@Leeo-98](https://github.com/Lean-98)
 
 
-![Logo](https://portfolio-leandropiazza.netlify.app/assets/logo-preview-7e173fba.png)
 
