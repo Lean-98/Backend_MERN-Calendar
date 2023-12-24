@@ -1,5 +1,5 @@
 # 📅Calendar-App MERN  | API-Backend 
-Calendar-App-Backend is a backend built with Node.js, Express and MongoDB, following an architecture based on the Model-Controller-View (MCV) pattern. This API uses tools such as bcrypt.js for password encryption, JWT for user authentication and Cors for managing requests between different sources.
+Calendar-API-Backend is a backend built with Node.js, Express and MongoDB, following an architecture based on the Model-Controller-View (MCV) pattern. This API uses tools such as bcrypt.js for password encryption, JWT for user authentication and Cors for managing requests between different sources.
 This backend provides a solid and secure foundation for the Calendar-App application, enabling efficient event and user management. With its MCV-based structure, it offers a clear separation of concerns and optimal scalability. Furthermore, being built with MERN technologies, it ensures a seamless integration with the frontend and a cohesive user experience.
 
 ## Tech Stack 
